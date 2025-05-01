@@ -35,7 +35,7 @@
             {
                 "type": "Social",
                 "altText": "Whatsapp",
-                "label": "Whatsapp",
+                "label": "Facebook",
                 "url": "https://github.com/netlify-templates",
                 "icon": "facebook"
             }
