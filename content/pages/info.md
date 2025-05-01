@@ -85,6 +85,7 @@ sections:
           - pl-4
           - pr-4
         textAlign: left
+    title: SIDE HUSTLES
   - type: DividerSection
     styles:
       self:
