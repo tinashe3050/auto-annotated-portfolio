@@ -72,7 +72,7 @@ sections:
     images:
       - type: ImageBlock
         url: /images/Snapshot_250501163057.png
-        altText: Logo one
+        altText: honeygain
         caption: Logo one
       - type: ImageBlock
         url: /images/logo2.svg
