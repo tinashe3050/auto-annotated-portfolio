@@ -44,31 +44,11 @@ sections:
   - type: MediaGallerySection
     colors: colors-f
     subtitle: >-
-      As a stay home dad these are my side hustles using laptop and wifi
-      Honeygain Lets users earn money by sharing their unused internet
-      bandwidth.Acts as a proxy service for businesses needing IP diversity
-      (e.g., ad verification, market research).Pays in credits convertible to
-      PayPal or cryptocurrency.Requires minimal setup—just install the app and
-      keep it running.Earnings depend on location, connection speed, and
-      demand.Pawns.appPays users for sharing bandwidth and completing
-      surveys.Offers multiple earning methods (IP sharing, surveys,
-      referrals).Features a low $5 PayPal withdrawal threshold.Works on Windows,
-      macOS, Android, and iOS.Less profitable than Honeygain but easier for
-      beginners.RepocketMonetizes unused internet bandwidth by selling it to
-      businesses.Users earn passively by keeping the app active.Pays via PayPal,
-      with a $20 minimum withdrawal.Works on Windows, macOS, and Linux.Earnings
-      vary based on location and network stability.Peer2ProfitSimilar to
-      Honeygain but with higher reported earnings in some regions.Pays users for
-      sharing their IP and bandwidth.Supports PayPal, USDT, and other crypto
-      payouts.Works on multiple devices (PC, mobile, even Raspberry Pi).Some
-      users report faster earnings compared to competitors.PacketStreamAnother
-      bandwidth-sharing app for proxy networks.Pays per GB of data routed
-      through your connection.Lower earnings than Honeygain but has a $5 cashout
-      minimum.Available on Windows, macOS, and Linux.Requires a stable,
-      high-speed connection for best results.Note: These apps are safe but may
-      affect your privacy since they route traffic through your IP. Use a
-      separate device or check terms carefully. Would you like a comparison on
-      which pays the most?
+      PacketStream: Sells your unused bandwidth to businesses for tasks like web
+      scraping, paying you based on data usage.Honeygain: Shares your idle
+      internet bandwidth with companies for market research, earning you passive
+      income.Repocket/Peer2Profit/PawnsApp: Similar platforms that monetize your
+      unused bandwidth or IP address, paying you in cash or crypto.
     images:
       - type: ImageBlock
         url: /images/Snapshot_250501163057.png
