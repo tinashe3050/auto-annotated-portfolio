@@ -43,7 +43,9 @@ sections:
         borderStyle: solid
   - type: MediaGallerySection
     colors: colors-f
-    subtitle: 'I worked with these folks:'
+    subtitle: >-
+      as a stay home dad i have side hustles you can do on your laptop now these
+      apps you install on you phone or pc
     images:
       - type: ImageBlock
         url: /images/logo1.svg
