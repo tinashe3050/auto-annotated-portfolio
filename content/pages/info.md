@@ -130,7 +130,7 @@ sections:
       - type: FeaturedItem
         actions:
           - type: Link
-            label: CodePen
+            label: Linktree
             url: 'https://codepen.io/'
         styles:
           self:
