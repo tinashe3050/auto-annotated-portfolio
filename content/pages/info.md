@@ -107,7 +107,7 @@ sections:
         actions:
           - type: Link
             label: x
-            url: 'https://twitter.com/'
+            url: 'https://x.com/BhUnUHTMlemons'
         styles:
           self:
             textAlign: left
