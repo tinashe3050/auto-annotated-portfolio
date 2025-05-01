@@ -13,12 +13,7 @@ sections:
   - elementId: ''
     colors: colors-f
     backgroundSize: full
-    text: >+
-      # Hey I’m a developer. I’ve been born and raised in the world, and that’s
-      also where I’m based. I’m currently a free agent, ex-this, ex-that,
-      ex-super big name. When I’m not coding, writing or creating, I eat
-      cereals. I have a dog, check her out [@mygod](https://www.stackbit.com/).
-
+    text: "As a stay-at-home dad web builder, you have unique advantages to offer small business owners and personal brands. Here's how to position yourself effectively:\n\n## Website & Positioning Essentials\n\n1.  **Specialized Homepage Messaging**:\n\n    *   \"Affordable Websites for Busy Small Business Owners - Built by a Dad Who Understands Budgets & Schedules\"\n\n    *   Highlight your availability during business hours when competitors may be unavailable\n\n2.  **Service Packages**:\n\n    *   Starter package (basic 5-page site) -\_500−500−800\n\n    *   E-commerce ready package -\_1,200−1,200−1,800\n\n    *   Monthly maintenance retainer option\n\n3.  **Unique Value Propositions**:\n\n    *   \"Dad-tested business solutions\" (play on your family experience)\n\n    *   \"Websites built during naptime - savings passed to you\"\n\n    *   \"No corporate overhead means lower prices for you\"\n\n\n\n\n\n"
     media:
       type: ImageBlock
       url: /images/gallery-1.jpg
