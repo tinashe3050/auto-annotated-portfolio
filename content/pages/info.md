@@ -98,7 +98,7 @@ sections:
       - type: FeaturedItem
         actions:
           - type: Link
-            label: GitHub
+            label: Whatsapp
             url: 'https://chat.whatsapp.com/KtsTKakVIs0Fvi2NDEUhjs'
         styles:
           self:
