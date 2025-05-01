@@ -99,7 +99,7 @@ sections:
         actions:
           - type: Link
             label: GitHub
-            url: 'https://github.com/'
+            url: 'https://chat.whatsapp.com/KtsTKakVIs0Fvi2NDEUhjs'
         styles:
           self:
             textAlign: left
