@@ -106,7 +106,7 @@ sections:
       - type: FeaturedItem
         actions:
           - type: Link
-            label: Twitter
+            label: x
             url: 'https://twitter.com/'
         styles:
           self:
