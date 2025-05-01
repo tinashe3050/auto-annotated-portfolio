@@ -98,7 +98,9 @@ sections:
         borderWidth: 1
         borderStyle: solid
   - type: FeaturedItemsSection
-    subtitle: 'You can find me here:'
+    subtitle: >-
+      You can find me here: and if you would like to try these side hustles all
+      links are under linktree
     colors: colors-f
     items:
       - type: FeaturedItem
