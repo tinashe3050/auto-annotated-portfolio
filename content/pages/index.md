@@ -13,7 +13,7 @@ sections:
   - elementId: ''
     colors: colors-f
     backgroundSize: full
-    title: "Hey there! \U0001F44B I’m a\_stay-at-home dad by day, web developer by naptime—turning coffee into code and toddler chaos into creative solutions. When I’m not debugging JavaScript, I’m mastering the art of snack negotiations and LEGO engineering."
+    title: "Hey there! \U0001F44B I’m BhUnU HTMlemons Web builder a\_stay-at-home dad by day, web developer by naptime—turning coffee into code and toddler chaos into creative solutions. When I’m not debugging JavaScript, I’m mastering the art of snack negotiations and LEGO engineering."
     subtitle: >-
       With a passion for clean, functional websites and a dad’s knack for
       problem-solving, I help businesses and entrepreneurs bring their ideas to
