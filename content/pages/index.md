@@ -13,9 +13,7 @@ sections:
   - elementId: ''
     colors: colors-f
     backgroundSize: full
-    title: >-
-      I’m a developer, digital artist, consultant and a bunch of other
-      impressive titles and buzz words.
+    title: "Hey there! \U0001F44B I’m a\_stay-at-home dad by day, web developer by naptime—turning coffee into code and toddler chaos into creative solutions. When I’m not debugging JavaScript, I’m mastering the art of snack negotiations and LEGO engineering."
     subtitle: >-
       This is my info—I’m sharing it all this with ya’ll to impress you with all
       the hard work I’ve done in the past few years. Once you’re impressed, you
