@@ -14,7 +14,12 @@ sections:
     colors: colors-f
     backgroundSize: full
     title: "Hey there! \U0001F44B I’m a\_stay-at-home dad by day, web developer by naptime—turning coffee into code and toddler chaos into creative solutions. When I’m not debugging JavaScript, I’m mastering the art of snack negotiations and LEGO engineering."
-    subtitle: ''
+    subtitle: >-
+      With a passion for clean, functional websites and a dad’s knack for
+      problem-solving, I help businesses and entrepreneurs bring their ideas to
+      life—one line of code (and one diaper change) at a time. Whether you need
+      a sleek portfolio, a powerful e-commerce site, or just some tech-savvy
+      advice, I’ve got the skills (and the patience) to make it happen.
     styles:
       self:
         height: auto
