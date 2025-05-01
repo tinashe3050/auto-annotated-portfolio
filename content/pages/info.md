@@ -131,7 +131,7 @@ sections:
         actions:
           - type: Link
             label: Linktree
-            url: 'https://codepen.io/'
+            url: 'https://linktr.ee/BhUnUHTMlemons'
         styles:
           self:
             textAlign: left
