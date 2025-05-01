@@ -30,7 +30,8 @@
                 "altText": "Twitter",
                 "label": "Twitter",
                 "url": "https://twitter.com/netlify",
-                "icon": "twitter"
+                "icon": "twitter",
+                "elementId": "whatsapp"
             },
             {
                 "type": "Social",
