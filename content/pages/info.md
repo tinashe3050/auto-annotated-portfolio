@@ -130,7 +130,7 @@ sections:
       - type: FeaturedItem
         actions:
           - type: Link
-            label: Discord
+            label: Telegram
             url: 'https://discord.com/'
         styles:
           self:
