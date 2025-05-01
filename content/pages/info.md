@@ -45,8 +45,9 @@ sections:
     colors: colors-f
     subtitle: >-
       PacketStream: Sells your unused bandwidth to businesses for tasks like web
-      scraping, paying you based on data usage.Honeygain: Shares your idle
-      internet bandwidth with companies for market research, earning you passive
+      scraping, paying you based on data
+      usage.Honeygain:https://r.honeygain.me/EVERN717 Shares your idle internet
+      bandwidth with companies for market research, earning you passive
       income.Repocket/Peer2Profit/PawnsApp: Similar platforms that monetize your
       unused bandwidth or IP address, paying you in cash or crypto.
     images:
