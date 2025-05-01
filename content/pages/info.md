@@ -44,7 +44,8 @@ sections:
   - type: MediaGallerySection
     colors: colors-f
     subtitle: >-
-      HoneygainLets users earn money by sharing their unused internet
+      As a stay home dad these are my side hustles using laptop and
+      wifiHoneygainLets users earn money by sharing their unused internet
       bandwidth.Acts as a proxy service for businesses needing IP diversity
       (e.g., ad verification, market research).Pays in credits convertible to
       PayPal or cryptocurrency.Requires minimal setup—just install the app and
