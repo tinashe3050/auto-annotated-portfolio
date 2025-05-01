@@ -71,7 +71,7 @@ sections:
       which pays the most?
     images:
       - type: ImageBlock
-        url: /images/logo1.svg
+        url: /images/Snapshot_250501163057.png
         altText: Logo one
         caption: Logo one
       - type: ImageBlock
