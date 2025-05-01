@@ -99,7 +99,7 @@ sections:
         actions:
           - type: Link
             label: Whatsapp
-            url: 'https://chat.whatsapp.com/KtsTKakVIs0Fvi2NDEUhjs'
+            url: 'https://wa.me/message/QHRWGT3LKGMXG1'
         styles:
           self:
             textAlign: left
