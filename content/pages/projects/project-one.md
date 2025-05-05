@@ -5,7 +5,7 @@ colors: colors-a
 date: '2021-10-15'
 client: Awesome client
 description: >-
-  why you’re using Visual Studio Code (VS Code) to develop your Next.js
+  why i use Visual Studio Code (VS Code) to develop your Next.js
   website:Lightweight & Fast – VS Code runs smoothly even with large Next.js
   projects.Built-in Terminal – Run next dev, npm, and Git commands without
   switching apps.IntelliSense – Auto-completes Next.js, React, and TypeScript
