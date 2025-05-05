@@ -20,7 +20,7 @@ featuredImage:
   altText: Project thumbnail image
 media:
   type: ImageBlock
-  url: /images/bg1.jpg
+  url: /images/my project_250502122935.png
   altText: Project image
 ---
 Emmet & Shortcuts – Quick HTML/JSX templating for Next.js pages.
