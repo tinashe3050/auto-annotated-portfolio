@@ -81,33 +81,38 @@ bottomSections:
         flexDirection: row
         textAlign: left
 ---
+1.  **"Your website is your 24/7 salesperson. Unless it’s down. Then it’s a ‘404 Therapist’."** *(Always monitor uptime!)*
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ante lorem, tincidunt ac leo efficitur, feugiat tempor odio. Curabitur at auctor sapien. Etiam at cursus enim. Suspendisse sed augue tortor. Nunc eu magna vitae lorem pellentesque fermentum. Sed in facilisis dui. Nulla molestie risus in mi dapibus, eget porta lorem semper. Donec sed facilisis nibh. Curabitur eget dui in libero euismod commodo nec sit amet est. Etiam id ipsum aliquam, vehicula erat sit amet, consequat tortor.
+2.  **"Clients don’t want a ‘website’—they want a ‘money printer’. Convince them you built one."** *(Sell results, not code.)*
 
-## Heading 2
+3.  **"The three fastest ways to a client’s heart: ‘SEO’, ‘mobile-friendly’, and ‘I’ll fix it free for 30 days’."** *(Risk reversal works.)*
 
-Etiam facilisis lacus nec pretium lobortis. Praesent dapibus justo non efficitur efficitur. Nullam viverra justo arcu, eget egestas tortor pretium id. Sed imperdiet mattis eleifend. Vivamus suscipit et neque imperdiet venenatis. In malesuada sed urna eget vehicula. Donec fermentum tortor sit amet nisl elementum fringilla. Pellentesque dapibus suscipit faucibus. Nullam malesuada sed urna quis rutrum. Donec facilisis lorem id maximus mattis. Vestibulum quis elit magna. Vestibulum accumsan blandit consequat. Phasellus quis posuere quam.
+4.  **"If you’re not failing the ‘Grandma Test’ (can she use it?), neither is your client’s audience."** *(UX > flashy tech.)*
 
-### Heading 3
+5.  **"Underpromise. Overdeliver. Then invoice before they realize how much you’re worth."** *(Get deposits upfront!)*
 
-Vestibulum ullamcorper risus auctor eleifend consequat. Vivamus mollis in tellus ac ullamcorper. Vestibulum sit amet bibendum ipsum, vitae rutrum ex. Nullam cursus, urna et dapibus aliquam, urna leo euismod metus, eu luctus justo mi eget mauris. Proin felis leo, volutpat et purus in, lacinia luctus eros. Pellentesque lobortis massa scelerisque lorem ullamcorper, sit amet elementum nulla scelerisque.
+6.  **"Your competition isn’t other devs—it’s Fiverr and Wix. Outsmart them with *strategy*, not $5 logos."** *(Position as an expert, not a commodity.)*
 
-```javascript
-{
-  page.content && (
-    <Markdown
-      options={{ forceBlock: true, overrides: { pre: HighlightedPreBlock } }}
-      className="sb-markdown max-w-3xl mx-auto"
-      data-sb-field-path="content"
-    >
-      {page.content}
-    </Markdown>
-  );
-}
-```
+7.  **"A client’s ‘quick change’ is your 4-hour debugging session. Charge accordingly."** *(Scope creep is the silent killer.)*
 
-In volutpat efficitur nulla, aliquam ornare lectus ultricies ac. Mauris sagittis ornare dictum. Nulla vel felis ut purus fermentum pretium. Sed id lectus ac diam aliquet venenatis. Etiam ac auctor enim. Nunc velit mauris, viverra vel orci ut, egestas rhoncus diam. Morbi scelerisque nibh tellus, vel varius urna malesuada sed. Etiam ultricies sem consequat, posuere urna non, maximus ex. Mauris gravida diam sed augue condimentum pulvinar vel ac dui. Integer vel convallis justo.
+8.  **"Nobody reads your portfolio. They look at pictures and pretend they did."** *(Show, don’t tell.)*
 
-Nam rutrum magna sed pellentesque lobortis. Etiam quam mauris, iaculis eget ex ac, rutrum scelerisque nisl. Cras finibus dictum ex sed tincidunt. Morbi facilisis neque porta, blandit mauris quis, pharetra odio. Aliquam dictum quam quis elit auctor, at vestibulum ex pulvinar. Quisque lobortis a lectus quis faucibus. Nulla vitae pellentesque nibh, et fringilla erat. Praesent placerat ac est at tincidunt. Praesent ultricies a ex at ultrices. Etiam sed tincidunt elit. Nulla sagittis neque neque, ultrices dignissim sapien pellentesque faucibus. Donec tempor orci sed consectetur dictum. Ut viverra ut enim ac semper. Integer lacinia sem in arcu tempor faucibus eget non urna. Praesent vel nunc eu libero aliquet interdum non vitae elit. Maecenas pharetra ipsum dolor, et iaculis elit ornare ac.
+9.  **"The best marketing is a client screaming ‘HOW DID YOU DO THAT?!’ in your DMs."** *(Case studies > resumes.)*
 
-Aenean scelerisque ullamcorper est aliquet blandit. Donec ac tellus enim. Vivamus quis leo mattis, varius arcu at, convallis diam. Donec ac leo at nunc viverra molestie ac viverra nisi. Proin interdum at turpis at varius. Nunc sit amet ex suscipit, convallis ligula eu, pretium turpis. Sed ultricies neque vel mi malesuada, et mollis risus lobortis. Sed condimentum venenatis mauris, id elementum dolor gravida ac. Sed sodales tempus neque, quis iaculis arcu tincidunt ut. Donec vitae faucibus dui. In hac habitasse platea dictumst. Donec erat ex, ullamcorper a massa a, porttitor porta ligula.
+10. **"If you’re not embarrassed by your old code, you’re not improving. If you’re not improving, clients smell it."** *(Keep learning.)*
+
+
+
+### **🔥 Bonus One-Liners for Social Media**
+
+*   **"Web dev: Where ‘It works on my machine’ is the modern ‘The check’s in the mail’."**
+
+*   **"I don’t always test my code, but when I do, I do it in production."** *(– Most freelancers, ever.)*
+
+*   **"My CSS skills are 90% !important."** *(Clients won’t care… until they do.)*
+
+
+
+
+
+
