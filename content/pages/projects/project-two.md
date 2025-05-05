@@ -12,7 +12,7 @@ description: >-
   can use to sell internet bandwith 
 featuredImage:
   type: ImageBlock
-  url: /images/image_fx.jpg
+  url: /images/whisk_storyboard68c15ede0e9c4811ae5c1c97.png
   altText: altText of the image
   caption: Caption of the image
   elementId: ''
