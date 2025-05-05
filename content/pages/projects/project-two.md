@@ -18,7 +18,7 @@ featuredImage:
   elementId: ''
 media:
   type: ImageBlock
-  url: /images/image_fx.jpg
+  url: /images/whisk_storyboard419dc11983af4695984e8da5.png
   altText: Project image
 ---
 ### **1. EarnFM**
