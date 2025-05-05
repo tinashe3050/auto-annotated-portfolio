@@ -21,7 +21,7 @@ description: >-
   accessibility, proving deployment expertise in cloud-based environments.
 featuredImage:
   type: ImageBlock
-  url: /images/bg3.jpg
+  url: /images/nrivnirnvvvervn.jpg
   altText: Project thumbnail image
 media:
   type: ImageBlock
