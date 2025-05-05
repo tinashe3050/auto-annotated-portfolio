@@ -5,9 +5,11 @@ colors: colors-a
 date: '2021-12-20'
 client: Awesome client
 description: >-
-  It’s hard to imagine that I’ve that I wrote all this code by myself, probably
-  because I worked with an entire team :) but they definitely followed my lead
-  most of the time.
+  some side hustles pushed me so hard had to make myself a website ,as a stay
+  home dad had to get my self into programing learn as we go  this is the my
+  fist project website besides this on my laptop i have 7 programes i installed
+  tho get pocket change for using wifi ,now these are apps that you can use to
+  sell internet bandwith 
 featuredImage:
   type: ImageBlock
   url: /images/image_fx (2).jpg
