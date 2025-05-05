@@ -1,6 +1,6 @@
 ---
 type: ProjectLayout
-title: cool project
+title: bhunu htmlemons project
 colors: colors-a
 date: '2022-01-22'
 client: project one
