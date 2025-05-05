@@ -4,7 +4,21 @@ title: cool project
 colors: colors-a
 date: '2022-01-22'
 client: project one
-description: 'this website is a project for prof that i hosted this '
+description: >-
+  Bhunu HTMLEMons is a dynamic web project developed using Next.js,
+  demonstrating modern frontend capabilities.This project serves as proof of
+  concept for my technical skills in React, server-side rendering, and API
+  integration.Built with performance optimization, leveraging Next.js features
+  like SSG, ISR, and efficient client-side routing.The codebase follows modular
+  architecture, ensuring scalability and maintainability for future
+  enhancements.Designed with responsive UI/UX principles, ensuring seamless
+  performance across devices.Integrates backend functionality via Next.js API
+  routes, showcasing full-stack proficiency.Serves as a portfolio piece,
+  highlighting my ability to deliver production-ready web
+  applications.Implements SEO best practices through Next.js’s built-in
+  optimizations for better search visibility.Demonstrates clean, documented code
+  for easy collaboration and future development.Hosted on Vercel for global
+  accessibility, proving deployment expertise in cloud-based environments.
 featuredImage:
   type: ImageBlock
   url: /images/bg3.jpg
