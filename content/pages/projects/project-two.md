@@ -19,15 +19,87 @@ media:
   url: /images/bg2.jpg
   altText: Project image
 ---
+### **1. EarnFM**
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ante lorem, tincidunt ac leo efficitur, feugiat tempor odio. Curabitur at auctor sapien. Etiam at cursus enim. Suspendisse sed augue tortor. Nunc eu magna vitae lorem pellentesque fermentum. Sed in facilisis dui. Nulla molestie risus in mi dapibus, eget porta lorem semper. Donec sed facilisis nibh. Curabitur eget dui in libero euismod commodo nec sit amet est. Etiam id ipsum aliquam, vehicula erat sit amet, consequat tortor.
+*   A platform that pays users for listening to music or running ads in the background.
 
-Etiam facilisis lacus nec pretium lobortis. Praesent dapibus justo non efficitur efficitur. Nullam viverra justo arcu, eget egestas tortor pretium id. Sed imperdiet mattis eleifend. Vivamus suscipit et neque imperdiet venenatis. In malesuada sed urna eget vehicula. Donec fermentum tortor sit amet nisl elementum fringilla. Pellentesque dapibus suscipit faucibus. Nullam malesuada sed urna quis rutrum. Donec facilisis lorem id maximus mattis. Vestibulum quis elit magna. Vestibulum accumsan blandit consequat. Phasellus quis posuere quam.
+*   Rewards in crypto or PayPal, depending on the plan.
 
-> “Everybody should learn to program a computer, because it teaches you how to think.”
+*   Requires minimal effort—just keep the app/website running.
 
-Vestibulum ullamcorper risus auctor eleifend consequat. Vivamus mollis in tellus ac ullamcorper. Vestibulum sit amet bibendum ipsum, vitae rutrum ex. Nullam cursus, urna et dapibus aliquam, urna leo euismod metus, eu luctus justo mi eget mauris. Proin felis leo, volutpat et purus in, lacinia luctus eros. Pellentesque lobortis massa scelerisque lorem ullamcorper, sit amet elementum nulla scelerisque. In volutpat efficitur nulla, aliquam ornare lectus ultricies ac. Mauris sagittis ornare dictum. Nulla vel felis ut purus fermentum pretium. Sed id lectus ac diam aliquet venenatis. Etiam ac auctor enim. Nunc velit mauris, viverra vel orci ut, egestas rhoncus diam. Morbi scelerisque nibh tellus, vel varius urna malesuada sed. Etiam ultricies sem consequat, posuere urna non, maximus ex. Mauris gravida diam sed augue condimentum pulvinar vel ac dui. Integer vel convallis justo.
+*   Lower earnings compared to bandwidth-sharing apps.
 
-Nam rutrum magna sed pellentesque lobortis. Etiam quam mauris, iaculis eget ex ac, rutrum scelerisque nisl. Cras finibus dictum ex sed tincidunt. Morbi facilisis neque porta, blandit mauris quis, pharetra odio. Aliquam dictum quam quis elit auctor, at vestibulum ex pulvinar. Quisque lobortis a lectus quis faucibus. Nulla vitae pellentesque nibh, et fringilla erat. Praesent placerat ac est at tincidunt. Praesent ultricies a ex at ultrices. Etiam sed tincidunt elit. Nulla sagittis neque neque, ultrices dignissim sapien pellentesque faucibus. Donec tempor orci sed consectetur dictum. Ut viverra ut enim ac semper. Integer lacinia sem in arcu tempor faucibus eget non urna. Praesent vel nunc eu libero aliquet interdum non vitae elit. Maecenas pharetra ipsum dolor, et iaculis elit ornare ac.
+*   Best for those who want a truly passive experience. https\://earn.fm/ref/IRVE3PDI
 
-Aenean scelerisque ullamcorper est aliquet blandit. Donec ac tellus enim. Vivamus quis leo mattis, varius arcu at, convallis diam. Donec ac leo at nunc viverra molestie ac viverra nisi. Proin interdum at turpis at varius. Nunc sit amet ex suscipit, convallis ligula eu, pretium turpis. Sed ultricies neque vel mi malesuada, et mollis risus lobortis. Sed condimentum venenatis mauris, id elementum dolor gravida ac. Sed sodales tempus neque, quis iaculis arcu tincidunt ut. Donec vitae faucibus dui. In hac habitasse platea dictumst. Donec erat ex, ullamcorper a massa a, porttitor porta ligula.
+### **2. Bytelixir**
+
+*   A decentralized bandwidth-sharing app similar to Honeygain.
+
+*   Pays users for unused internet bandwidth (used for web scraping, SEO, etc.).
+
+*   Rewards in **$ELIXIR** tokens (crypto) or PayPal.
+
+*   Requires a stable internet connection.
+
+*   Still growing, so earnings may vary. https\://bytelixir.com/r/YEHLPLWEPVLN
+
+### **3. Peer2Profit**
+
+*   Sells your unused bandwidth to businesses for proxy services.
+
+*   Pays in **crypto (BTC, ETH, USDT)** or PayPal/Bank Transfer.
+
+*   Works on **PC, Android, & Linux**—no mobile version for iOS.
+
+*   Higher earnings with multiple devices/IPs.
+
+*   Some users report slow payouts. https\://t.me/peer2profit\_app\_bot?start=166024907762f563f54e14e
+
+### **4. Honeygain**
+
+*   The most popular bandwidth-sharing app (since 2019).
+
+*   Pays **$0.10 per GB** (varies by country) via PayPal or crypto.
+
+*   Works on **PC, Android, & iOS** (5 devices max per account).
+
+*   Includes a **$5 sign-up bonus** for new users.
+
+*   Slow but reliable earnings (\~3–3–15/month). https\://r.honeygain.me/EVERN717
+
+### **5. Repocket**
+
+*   Another bandwidth-sharing app that pays in **crypto (USDT, BTC, etc.)**.
+
+*   Offers **$5 sign-up bonus** and referral rewards.
+
+*   Works on **PC & mobile**, but mobile must stay active.
+
+*   Lower payouts than Honeygain but instant withdrawals.
+
+*   Good for crypto enthusiasts.   https\://link.repocket.com/Vve
+
+### **6. PacketShare**
+
+*   Sells your unused bandwidth as residential proxies.
+
+*   Pays **0.10–0.10–0.50 per GB** (varies by demand).
+
+*   No referral program, but supports **PayPal & crypto**.
+
+*   Works on **Windows, Mac, Linux**.
+
+*   Earnings are slow unless you have high bandwidth.  https\://www\.packetshare.io/?code=7DA2FFF652AFDD8B
+
+### **7. Pawns.app**
+
+*   A mix of **bandwidth sharing & surveys** for passive income.
+
+*   Pays via **PayPal, crypto, or gift cards**.
+
+*   Works on **PC & mobile**, but mobile must stay online.
+
+*   Offers **$1 sign-up bonus**.
+
+*   Lower earnings but easy to use. https\://pawns.app/?r=irvine
+
