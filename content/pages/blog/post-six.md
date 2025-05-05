@@ -1,6 +1,6 @@
 ---
 type: PostLayout
-title: These skills are beginner-friendly but marketable strategies i work with
+title: "These skills are beginner-friendly but marketable strategies i work with \U0001F60A"
 colors: colors-a
 date: '2024-06-03'
 author: content/data/team/doris-soto.json
