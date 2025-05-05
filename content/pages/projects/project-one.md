@@ -3,7 +3,7 @@ type: ProjectLayout
 title: A very cool tool i use
 colors: colors-a
 date: '2021-10-15'
-client: Awesome client
+client: bhunus project
 description: >-
   why i use Visual Studio Code (VS Code) to develop your Next.js
   website:Lightweight & Fast – VS Code runs smoothly even with large Next.js
