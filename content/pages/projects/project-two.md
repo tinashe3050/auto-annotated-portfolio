@@ -16,7 +16,7 @@ featuredImage:
   altText: Project thumbnail image
 media:
   type: ImageBlock
-  url: /images/bg2.jpg
+  url: /images/image_fx (1).jpg
   altText: Project image
 ---
 ### **1. EarnFM**
