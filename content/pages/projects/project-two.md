@@ -18,7 +18,7 @@ featuredImage:
   elementId: ''
 media:
   type: ImageBlock
-  url: /images/image_fx (1).jpg
+  url: /images/image_fx.jpg
   altText: Project image
 ---
 ### **1. EarnFM**
