@@ -7,7 +7,7 @@ author: content/data/team/doris-soto.json
 excerpt: ''
 featuredImage:
   type: ImageBlock
-  url: /images/featured-Image1.jpg
+  url: /images/whisk_storyboard419dc11983af4695984e8da5.png
   altText: Post thumbnail image
 media:
   url: /images/image_fx (1).jpg
