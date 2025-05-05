@@ -5,11 +5,11 @@ colors: colors-a
 date: '2021-12-20'
 client: Bhunus Backstory
 description: >-
-  some side hustles pushed me so hard had to make myself a website ,as a stay
-  home dad had to get my self into programing learn as we go  this is the my
-  fist project website besides this on my laptop i have 7 programes i installed
-  tho get pocket change for using wifi ,now these are apps that you can use to
-  sell internet bandwith 
+  some side hustles pushed me so hard had to push myself to get my self in tech
+  ,as a stay home dad had to get my self into programing learn as we go  this is
+  the my fist project website besides this on my laptop i have 7 programes i
+  installed tho get pocket change for using wifi ,now these are apps that you
+  can use to sell internet bandwith 
 featuredImage:
   type: ImageBlock
   url: /images/image_fx (2).jpg
