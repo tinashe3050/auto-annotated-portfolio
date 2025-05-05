@@ -3,7 +3,7 @@ type: ProjectLayout
 title: 'LazyMan-SideHusle '
 colors: colors-a
 date: '2021-12-20'
-client: Awesome client
+client: Bhunus Backstory
 description: >-
   some side hustles pushed me so hard had to make myself a website ,as a stay
   home dad had to get my self into programing learn as we go  this is the my
